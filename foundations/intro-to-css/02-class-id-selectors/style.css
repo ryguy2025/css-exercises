@@ -1,0 +1,13 @@
+.odin {
+    background-color: pink; font-family:verdana, "Dejavu Sans", "sans-serif";
+}
+
+.blu {
+    color: blue; font-size: 36px;
+}
+#size {
+    font-size: 24px;
+}
+.money {
+    background-color: rgb(87, 236, 87); font-size: 24px; font-weight: bold;
+}
